@@ -1,16 +1,25 @@
 <template>
   <div>
+<<<<<<< HEAD
     <!-- <Layout/> -->
+=======
+>>>>>>> master
     <router-view></router-view>
   </div>
 </template>
 
 <script>
+<<<<<<< HEAD
 import Layout from './views/layout/layout.vue';
 export default {
   name: "app",
   components:{
     Layout
+=======
+export default {
+  name: "app",
+  components:{
+>>>>>>> master
   }
   
 };
