@@ -4,32 +4,45 @@
     <!-- <Layout/> -->
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
     <!-- <Layout/> -->
 =======
 >>>>>>> master
 >>>>>>> dev
+=======
+>>>>>>> master
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
     <router-view></router-view>
   </div>
 </template>
 
 <script>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> dev
+=======
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
 import Layout from './views/layout/layout.vue';
 export default {
   name: "app",
   components:{
     Layout
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
 =======
 export default {
   name: "app",
   components:{
 >>>>>>> master
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
   }
   
 };

@@ -8,10 +8,15 @@ import './plugins/element.js'
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> master
 >>>>>>> dev
+=======
+
+>>>>>>> master
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
 // 使用elementUI
 Vue.use(ElementUI)
 

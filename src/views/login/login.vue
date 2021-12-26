@@ -1,9 +1,12 @@
 <template>
   <div>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> dev
+=======
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
     <h1>login 登录</h1>
   </div>
 </template>
@@ -19,8 +22,11 @@ export default {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 </style>
 =======
+=======
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
 </style>
 =======
       <!-- 登录界面 -->
@@ -276,4 +282,7 @@ section .color:nth-child(3) {
 }
 </style>
 >>>>>>> master
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+>>>>>>> 4d028784dc64589db5bfa8b57f6f6ae696473c83
